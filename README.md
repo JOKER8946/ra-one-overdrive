@@ -3,7 +3,7 @@
 A browser-based 2D fighting game built with pure HTML5 Canvas, CSS, and JavaScript — no frameworks, no libraries.
 
 ## Play Now
-👉 [Click to Play](https://<your-username>.github.io/ra-one-overdrive/)
+👉 [Click to Play](https://joker8946.github.io/ra-one-overdrive/)
 
 ## Features
 - 1 Player vs Adaptive CPU (with Phase 2 boss mode)
